@@ -1,0 +1,5 @@
+1.0 has odd parity and madam is a Palindrome.
+2.0 has even parity and apple is Not a palindrome.
+3.6 has no parity and racecar is a Palindrome.
+89.0 has odd parity and parrot is Not a palindrome.
+45.2 has no parity and discord is Not a palindrome.
